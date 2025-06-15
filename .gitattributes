@@ -1,0 +1,8 @@
+*.mama linguist-language=Mama
+*.chas linguist-language=Chascript
+*.potaka linguist-language=Potaka
+*.ptk linguist-language=Pankti
+*.kolom linguist-language=Kolom
+
+# Treat .json files as Mama Lang
+*.json linguist-language=Mama
