@@ -6,3 +6,5 @@
 
 # Treat .json files as Mama Lang
 *.json linguist-language=Mama
+
+.gitattributes linguist-language=Git Attributes
